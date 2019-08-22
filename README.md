@@ -1,5 +1,5 @@
 # Quiz
-A demo app for AppliedAI Consultings
+A demo app for Quiz. (AppliedAI Consulting)
 
 # To run the app
 1. ``` $ git clone https://github.com/nandini8/Quiz.git ```
