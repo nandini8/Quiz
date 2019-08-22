@@ -1,0 +1,14 @@
+Here is the assignment details:
+
+You need to write python code so that someone can take the quiz/MCQ from the attached quiz.json file. When the code is run on command line, it should print the two groups, sport and math. User can select any one group, then it should print the question, with its options and let user provide an answer.
+After answering all the questions, final result should be printed.
+
+Once this Python code is ready, you also need to create docker image using Dockerfile for the code and you also need to upload image into Docker Hub.
+
+How to submit assignment: 
+
+Please create a repository into Github and push all the assignment code (Python code and Dockerfile ) into that repo. Share the repo link to me. 
+
+Deadline to submit assignment: 
+
+Submit assignment before 23rd of Aug, Friday 11AM. 
